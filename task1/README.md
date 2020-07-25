@@ -1,6 +1,6 @@
 # Interview-task
 
-
+#Write a C program
 
 Write a program in C language with taken attached file for reference.
 
