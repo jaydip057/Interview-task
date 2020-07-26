@@ -20,8 +20,11 @@ return the total number of jump
 Example 1:
 
 input1: 10
+
 input2: 1
+
 input 3: 1
+
 input4: (10)
 
 Output: 1
