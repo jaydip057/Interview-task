@@ -43,6 +43,5 @@ input4:[9,11]
 Output: 5
 
 Explanation:
-
 Here prisoner can jump a height of 5 meters but slides down by 1 meter. He has 2 walls to jump and the height of each wall is 9 and 11 meters respectively While crossing the first wall prisoner makes 2 attempts, because at the first attempt he jumps 5 meters, but slides down by 1 meter, and does not cross the wall In the next attempt, he jumps 5 more meters from that position and this time he doesn't slide because he crossed the wall in this attempt because 4*5=9 and 9 meters is the actual height of the wall.
 Similarly while crossing the second wall Jack Sparrow takes 3 attempts because at the second attempt on this wall,he  slides down by 1 meter So, 4+5=9, and the height of the wall is 11 meter  at this third attempt, prisoner is able to escape from the jail.
